@@ -1,0 +1,13 @@
+{
+  "cupcakeria": {
+    "trishna": {
+      "mainOrder": "orders/cupcakeria/Holiday/trishna.png",
+      "holidayOrders": {
+        "Halloween": "orders/cupcakeria/Trishna/trishna9.png",
+        "Christmas": "orders/cupcakeria/Trishna/trishna11.png",
+        "Valentine's Day": "orders/cupcakeria/Trishna/trishna1.png",
+        "New Year": "orders/cupcakeria/Trishna/trishna12.png"
+      }
+    }
+  }
+}
